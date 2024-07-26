@@ -1,5 +1,5 @@
 # Computer Architecture and Boolean Algebra ([Logic_Gates.ipynb](Logic_Gates.ipynb))
-This repository contains a notebook of the implementation of elementary logic gates which are used to construct core computer components such as arithmetic logic units (ALU), registers and memory. The gates are implemented from scratch using python and boolean algebra. This corresponds to the learning outcomes of the modules:
+This notebook contains the implementation of elementary logic gates which are used to construct core computer components such as arithmetic logic units (ALU), registers and memory. The gates are implemented from scratch using python and boolean algebra. This corresponds to the learning outcomes of the modules:
 - [Computer Architecture (COAR H1001)](https://www.tudublin.ie/study/modules/coar-h1001-computer-architecture/)
 - [Discrete Mathematics 1 (MATH H1030)](https://www.tudublin.ie/study/modules/math-h1030-discrete-mathematics-1/)
 - [Discrete Mathematics 2 (MATH H2030)](https://www.tudublin.ie/study/modules/math-h2030-discrete-mathematics-2/)
