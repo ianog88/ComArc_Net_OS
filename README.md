@@ -13,7 +13,9 @@ I outlined my experience in computer networking in the software development repo
 - [Network Management (NWMG H4001)](https://www.tudublin.ie/study/modules/nwmg-h4001-network-management/)
 - [Routing & Switching Essentials (NETW H2004)](https://www.tudublin.ie/study/modules/netw-h2004-routing--switching-essentials/)
 
-# Operating Systems 
-Similar to networking, I could not think of any projects specific to operating systems. However
+# Operating Systems ([basic_shell.c](basic_shell.c))
+During my time spent building and running automated trading systems, I have gained hands-on experience with complex operations such as CPU affinity and low-latency networking using a kernel bypass. While I never implemented these techniques in live trading, the process gave me a strong understanding of operating systems, particularly with regards to performance optimisation and concurrency management. I have included source code for the implementation of a basic shell with that executes commands, performs input/output redirection, and piping between two commands. The relevant modules are:
+- [Operating Systems Fundamentals (OPSY H1001)](https://www.tudublin.ie/study/modules/opsy-h1001-operating-systems-fundamentals/)
+- [Operating Systems (OPSY H3003)](https://www.tudublin.ie/study/modules/opsy-h3003-operating-systems/)
 
 
